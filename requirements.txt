@@ -1,0 +1,4 @@
+numpy>=1.24
+Pillow>=10.0
+# 推荐的镜头检测器；没装时工具会自动回退到 ffmpeg scdet
+scenedetect[opencv]>=0.6
